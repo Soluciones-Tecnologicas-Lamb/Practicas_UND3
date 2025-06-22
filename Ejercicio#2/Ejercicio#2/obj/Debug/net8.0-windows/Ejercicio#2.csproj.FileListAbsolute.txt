@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\bin\Debug\net8.0-windows\Ejercicio#2.exe
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\bin\Debug\net8.0-windows\Ejercicio#2.deps.json
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\bin\Debug\net8.0-windows\Ejercicio#2.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\bin\Debug\net8.0-windows\Ejercicio#2.dll
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\bin\Debug\net8.0-windows\Ejercicio#2.pdb
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio_2.Form1.resources
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.sourcelink.json
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.dll
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\refint\Ejercicio#2.dll
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.pdb
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\Ejercicio#2.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\Practicas_UND3\Ejercicio#2\Ejercicio#2\obj\Debug\net8.0-windows\ref\Ejercicio#2.dll
