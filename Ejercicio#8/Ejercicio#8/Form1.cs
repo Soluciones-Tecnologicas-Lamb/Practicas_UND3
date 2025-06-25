@@ -17,7 +17,6 @@ namespace Ejercicio_8
                 return;
             }
 
-            // Separar palabras ignorando múltiples espacios
             string[] palabras = texto.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
             lbl_resultado.Text = $"Número de palabras: {palabras.Length}";
