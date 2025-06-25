@@ -31,7 +31,7 @@
             button1 = new Button();
             label1 = new Label();
             label2 = new Label();
-            textBox1 = new TextBox();
+            maskedTextBox1 = new MaskedTextBox();
             SuspendLayout();
             // 
             // button1
@@ -62,19 +62,21 @@
             label2.TabIndex = 2;
             label2.Text = "Digite un numero para saber si es Primo o No";
             // 
-            // textBox1
+            // maskedTextBox1
             // 
-            textBox1.Location = new Point(264, 22);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 3;
+            maskedTextBox1.Location = new Point(264, 22);
+            maskedTextBox1.Mask = "99999";
+            maskedTextBox1.Name = "maskedTextBox1";
+            maskedTextBox1.Size = new Size(100, 23);
+            maskedTextBox1.TabIndex = 3;
+            maskedTextBox1.ValidatingType = typeof(int);
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(533, 104);
-            Controls.Add(textBox1);
+            Controls.Add(maskedTextBox1);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(button1);
@@ -89,6 +91,6 @@
         private Button button1;
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
+        private MaskedTextBox maskedTextBox1;
     }
 }

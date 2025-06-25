@@ -22,7 +22,7 @@ namespace Ejercicio_5
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            if (int.TryParse(textBox1.Text, out int numero))
+            if (int.TryParse(maskedTextBox1.Text, out int numero))
             {
                 if (EsPrimo(numero))
                     MessageBox.Show($"{numero} es un número primo.", "Resultado");
